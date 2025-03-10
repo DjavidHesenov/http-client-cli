@@ -15,8 +15,8 @@ This simple CLI (Command Line Interface) HTTP client application built with Java
 ### Clone the Repository
 
 ```bash
-git clone <repository-url>
-cd <repository-folder>
+git clone https://github.com/DjavidHesenov/http-client-cli.git
+cd http-client-cli
 ```
 
 ### Install Dependencies
